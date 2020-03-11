@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "rewards": [
+    { "id": 1, "title": "2 Tickets\nOriginal Brand Cafe", "points": 180, "image_url": "https://picsum.photos/id/1000/300/200", "new_product": true},
+    { "id": 2, "title": "Shoes Brand", "points": 120, "image_url": "https://picsum.photos/seed/picsum/300/200", "new_product": true},
+    { "id": 3, "title": "Brand Cap", "points": 100, "image_url": "https://picsum.photos/id/1018/300/200", "new_product": true},
+    { "id": 4, "title": "Flower Discount", "points": 80, "image_url": "https://picsum.photos/300/200?random=1", "new_product": false}
+  ]
 }
