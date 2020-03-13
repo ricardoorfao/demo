@@ -4,5 +4,9 @@
     { "id": 2, "title": "Shoes Brand", "points": 120, "image_url": "https://picsum.photos/seed/picsum/300/200", "new_product": true},
     { "id": 3, "title": "Brand Cap", "points": 100, "image_url": "https://picsum.photos/id/1018/300/200", "new_product": false},
     { "id": 4, "title": "Flower Discount", "points": 80, "image_url": "https://picsum.photos/300/200?random=1", "new_product": false}
+  ],
+  "bags": [
+    {"id": 1, "title": "Shoes Brand", "size": 8, "color": "black", "quantity": 1, "points": 120, "image_url": "https://picsum.photos/300/200?random=1"},
+    {"id": 2, "title": "2 Tickets Original Brand Cafe", "subtilte": "Lore ipsum dolor sit amet, consectetur adipiscing", "quantity": 2, "points": 180, "image_url": "https://picsum.photos/300/200?random=1"}
   ]
 }
